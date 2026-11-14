@@ -461,10 +461,19 @@
     "status": "applied"
   },
   {
+    "created": "2026-11-14T02:58:10Z",
     "issue": 91,
     "player": "Erickzito",
-    "created": "2026-11-14T02:58:10Z",
-    "status": "rejected",
-    "reason": "Use [gba] BUTTON or [gba] BUTTON FRAMES"
+    "reason": "Use [gba] BUTTON or [gba] BUTTON FRAMES",
+    "status": "rejected"
+  },
+  {
+    "issue": 92,
+    "player": "Erickzito",
+    "created": "2026-11-14T02:58:57Z",
+    "status": "applied",
+    "button": "LEFT",
+    "duration": 12,
+    "state_sha256": "733c9b91e7e9c0c0c60e9040859e9c260fe4ccd33a1a6a019f5db1e82d37102b"
   }
 ]
