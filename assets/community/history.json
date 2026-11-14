@@ -459,5 +459,12 @@
     "player": "ianfilipe",
     "state_sha256": "bcb2c7e4b4592055838d5f458eb67563daa46dbe25f9a82e425e430ae3a5c847",
     "status": "applied"
+  },
+  {
+    "issue": 91,
+    "player": "Erickzito",
+    "created": "2026-11-14T02:58:10Z",
+    "status": "rejected",
+    "reason": "Use [gba] BUTTON or [gba] BUTTON FRAMES"
   }
 ]
