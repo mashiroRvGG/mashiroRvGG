@@ -6,13 +6,13 @@
   "frames": 31748,
   "total": 46,
   "last": {
+    "button": "LEFT",
+    "created": "2026-11-14T02:58:57Z",
+    "duration": 12,
     "issue": 92,
     "player": "Erickzito",
-    "created": "2026-11-14T02:58:57Z",
-    "status": "applied",
-    "button": "LEFT",
-    "duration": 12,
-    "state_sha256": "733c9b91e7e9c0c0c60e9040859e9c260fe4ccd33a1a6a019f5db1e82d37102b"
+    "state_sha256": "733c9b91e7e9c0c0c60e9040859e9c260fe4ccd33a1a6a019f5db1e82d37102b",
+    "status": "applied"
   },
   "screen_sha256": "b62ade093b2cd50249d13da6b10a45b0f4b3296b9801d9acff74ff3d597e768a",
   "mode": "firered"
