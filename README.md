@@ -155,28 +155,19 @@ Some dialogues need more than one **A** command. Progress is saved automatically
 
 ## WHAT I'M BUILDING RIGHT NOW
 
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
 <h3>VALORANT, BUT IN MY BROWSER</h3>
-<img src="assets/profile/valorant-web-action.webp" alt="Actual gameplay of an unofficial Valorant-inspired browser FPS: hand gesture and a nuke going off" width="320" />
-<br /><br />
-<img src="assets/profile/valorant-web-phone.webp" alt="Actual gameplay of the same browser FPS: in-game phone with music player and selfie camera" width="320" />
+<img src="assets/profile/valorant-web-action.webp" alt="Actual gameplay of an unofficial Valorant-inspired browser FPS: hand gesture and a nuke going off" width="48%" />
+&nbsp;
+<img src="assets/profile/valorant-web-phone.webp" alt="Actual gameplay of the same browser FPS: in-game phone with music player and selfie camera" width="48%" />
 <br />
-<sub>Real FPS gameplay, rendered in the browser.</sub>
-<br /><br />
-<sub>Unofficial fan experiment · Work in progress</sub>
-</td>
-<td width="50%" valign="top" align="center">
+<sub>Real FPS gameplay, rendered in the browser · Unofficial fan experiment · Work in progress</sub>
+
+<br />
+
 <h3>SIGILO · OCCULT ROGUELITE</h3>
-<img src="assets/profile/sigilo-hq.webp" alt="Animated gameplay of SIGILO, a 2D occult roguelite" width="320" />
+<img src="assets/profile/sigilo-hq.webp" alt="Animated gameplay of SIGILO, a 2D occult roguelite" width="48%" />
 <br />
-<sub>Pixel-art combat, rituals and cosmic horror.</sub>
-<br /><br />
-<sub>Indie game prototype · Work in progress</sub>
-</td>
-</tr>
-</table>
+<sub>Pixel-art combat, rituals and cosmic horror · Indie game prototype · Work in progress</sub>
 
 </div>
 <!-- CURRENTLY-BUILDING:END -->
