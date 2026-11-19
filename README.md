@@ -159,7 +159,9 @@ Some dialogues need more than one **A** command. Progress is saved automatically
 <tr>
 <td width="50%" valign="top" align="center">
 <h3>VALORANT, BUT IN MY BROWSER</h3>
-<img src="assets/profile/valorant-final-hq.webp" alt="Actual gameplay of an unofficial Valorant-inspired browser FPS" width="320" />
+<img src="assets/profile/valorant-web-action.webp" alt="Actual gameplay of an unofficial Valorant-inspired browser FPS: hand gesture and a nuke going off" width="320" />
+<br /><br />
+<img src="assets/profile/valorant-web-phone.webp" alt="Actual gameplay of the same browser FPS: in-game phone with music player and selfie camera" width="320" />
 <br />
 <sub>Real FPS gameplay, rendered in the browser.</sub>
 <br /><br />
