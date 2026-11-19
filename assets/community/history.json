@@ -477,12 +477,12 @@
     "status": "applied"
   },
   {
+    "button": "START",
+    "created": "2026-11-19T11:29:40Z",
+    "duration": 12,
     "issue": 95,
     "player": "dkariio",
-    "created": "2026-11-19T11:29:40Z",
-    "status": "applied",
-    "button": "START",
-    "duration": 12,
-    "state_sha256": "8da67c4a9a60a98117f1917139ecaeba02f2a0014b1ee8f0cc87c0eb42d635aa"
+    "state_sha256": "8da67c4a9a60a98117f1917139ecaeba02f2a0014b1ee8f0cc87c0eb42d635aa",
+    "status": "applied"
   }
 ]
