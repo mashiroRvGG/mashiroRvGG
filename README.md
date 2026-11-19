@@ -150,6 +150,33 @@ Some dialogues need more than one **A** command. Progress is saved automatically
 
 ---
 
+<!-- BAD-TAKE:START -->
+<div align="center">
+
+## BAD TAKE · EPIC AI MEGAJAM 2026
+
+<a href="https://ravazzoligabriel-commits.itch.io/bad-take"><img src="assets/profile/badtake-banner.png" alt="BAD TAKE! One hero. Too many retakes." width="720" /></a>
+
+You're the actor in a jungle adventure movie, shot on a film set. Every mistake is a new take, the director yells into his megaphone and his patience drops.
+Shout **HOLD IT!** to freeze traps, bridges and rolling boulders (it costs him film) and finish the scene to hear **PRINT IT!**
+<br />
+<sub>Cinematic side-scroller · Made solo in 3 days · Unreal Engine 5 · Theme: *Director's Cut*</sub>
+
+<img src="assets/profile/badtake-hold-it.gif" alt="HOLD IT! freezes the whole set" width="48%" />
+&nbsp;
+<img src="assets/profile/badtake-boulder.gif" alt="Running from the boulder to the end of the scene" width="48%" />
+
+<img src="assets/profile/badtake-shot-7.jpg" alt="Start of the stage" width="32%" />
+<img src="assets/profile/badtake-shot-31.jpg" alt="Rope bridge with the director" width="32%" />
+<img src="assets/profile/badtake-shot-54.jpg" alt="End of the scene" width="32%" />
+
+### [▶ Play it on itch.io](https://ravazzoligabriel-commits.itch.io/bad-take)
+
+</div>
+<!-- BAD-TAKE:END -->
+
+---
+
 <!-- CURRENTLY-BUILDING:START -->
 <div align="center">
 
