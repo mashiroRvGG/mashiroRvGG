@@ -166,9 +166,6 @@ Shout **HOLD IT!** to freeze traps, bridges and rolling boulders (it costs him f
 &nbsp;
 <img src="assets/profile/badtake-boulder.gif" alt="Running from the boulder to the end of the scene" width="48%" />
 
-<img src="assets/profile/badtake-shot-7.jpg" alt="Start of the stage" width="32%" />
-<img src="assets/profile/badtake-shot-31.jpg" alt="Rope bridge with the director" width="32%" />
-<img src="assets/profile/badtake-shot-54.jpg" alt="End of the scene" width="32%" />
 
 ### [▶ Play it on itch.io](https://ravazzoligabriel-commits.itch.io/bad-take)
 
