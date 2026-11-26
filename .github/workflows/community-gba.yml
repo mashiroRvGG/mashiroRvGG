@@ -25,7 +25,7 @@ concurrency:
 jobs:
   turns:
     if: >-
-      github.repository == 'ravazzoligabriel-commits/ravazzoligabriel-commits' &&
+      github.repository_id == '1231242864' &&
       (github.event_name != 'issues' || startsWith(github.event.issue.title, '[gba]'))
     runs-on: ubuntu-24.04
     timeout-minutes: 15
